@@ -23,8 +23,11 @@
   
   header {
     background: var(--secondary);
-    padding: 30px 25px;
+    padding: 15px 5px;
+    border-top: 5px;
     border-bottom: 5px solid var(--primary);
+    font-size: 30px;
+    color: chartreuse;
   }
   
   header p {
